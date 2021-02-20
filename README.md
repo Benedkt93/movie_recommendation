@@ -9,7 +9,28 @@ Movie Recommendation Systems
 * [Status](#status)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Main project: Finding best recommendation system by comparing Content based system and Collaborative Filtering systems for movie dataset
+Sub project: Clustering people based on average genre rating the gave
+Process:
+1.Data Acquisition
+2.Data cleaning
+3.Data exploration and analysis
+4.Statistical Modelling
+5. Sub project:
+    Feature selection
+    Train Unsupervised Learning model
+    Model evaluation using Elbow method and Silhouette score
+6. Building recommendation Engines:
+- Content Based Filtering
+-Item-Item based Filtering
+-User-Item based Filtering
+-Model based Filtering
+-Model based Filtering using ML approach:
+    Train/Test Split
+    Train Model
+    Tuning Model
+    Evaluate Model
+-Compare Recommendation systems
 
 ## Dataset
 https://grouplens.org/datasets/movielens/
@@ -17,19 +38,5 @@ https://grouplens.org/datasets/movielens/
 ## Technologies
 * Python 3
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
 ## Status
-Project is: _in progress_
+Project is: _finished_
