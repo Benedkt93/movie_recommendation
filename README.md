@@ -1,5 +1,8 @@
-# Project Name
-Movie Recommendation Systems
+# Movie Recommendation Systems
+
+**Benedikt Roth**
+
+**data-pt-ber-08-20**
 
 ## Table of contents
 * [General info](#general-info)
@@ -8,8 +11,11 @@ Movie Recommendation Systems
 * [Features](#features)
 * [Status](#status)
 
-## General info
+## Overview
 Main project: Finding best recommendation system by comparing Content based system and Collaborative Filtering systems for movie dataset
+Hypothese: ML is best approach for recommendation system
+Tesing: Building different recommendation systems using different techniques and recommended systems by catalog coverage  
+
 Sub project: Clustering people based on average genre rating the gave
 Process:
 1.Data Acquisition
@@ -30,10 +36,12 @@ Process:
     Train Model
     Tuning Model
     Evaluate Model
--Compare Recommendation systems
+-Compare Recommendation systems based on catalog coverage
 
 ## Dataset
 https://grouplens.org/datasets/movielens/
+size:(105339, 7)
+datatypes:int, float, timestamp
 
 ## Technologies
 * Python 3
