@@ -35,10 +35,10 @@ Process:
 -User-Item based Filtering
 -Model based Filtering
 -Model based Filtering using ML approach:
-    Train/Test Split
     Train Model
+    Evaluate Model
     Tuning Model
-    Evaluate Model using Catalog Coverage
+7. Comparing Model using Catalog Coverage
 
 ## Dataset
 https://grouplens.org/datasets/movielens/
