@@ -13,10 +13,13 @@
 
 ## Overview
 Main project: Building recommendation systems based on different techniques.
-Hypothese/Question to answer: What is the best recommendation system/ the best method to build a recommendation system on?
-Tesing: Building different recommendation systems using different techniques and find best system
+Hypothese/Question to answer: Is machine Learning the best apporach to build a recommendation system on?
+Tesing: Building different recommendation systems using different techniques and compare them to machine learning approach
 
 Sub project: Clustering people based on average genre rating the gave
+Hypothesis: What genre determines most that people differentiate?
+Tesing: Building an unsupervies machine leanring alg to identify most important feature for clustering people based on movie genres.
+
 Process:
 1.Data Acquisition
 2.Data cleaning
@@ -35,7 +38,7 @@ Process:
     Train/Test Split
     Train Model
     Tuning Model
-    Evaluate Model
+    Evaluate Model using Catalog Coverage
 
 ## Dataset
 https://grouplens.org/datasets/movielens/
