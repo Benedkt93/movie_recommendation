@@ -12,9 +12,9 @@
 * [Status](#status)
 
 ## Overview
-Main project: Finding best recommendation system by comparing Content based system and Collaborative Filtering systems for movie dataset
-Hypothese: ML is best approach for recommendation system
-Tesing: Building different recommendation systems using different techniques and recommended systems by catalog coverage  
+Main project: Building recommendation systems based on different techniques.
+Hypothese/Question to answer: What is the best recommendation system/ the best method to build a recommendation system on?
+Tesing: Building different recommendation systems using different techniques and find best system
 
 Sub project: Clustering people based on average genre rating the gave
 Process:
@@ -36,7 +36,6 @@ Process:
     Train Model
     Tuning Model
     Evaluate Model
--Compare Recommendation systems based on catalog coverage
 
 ## Dataset
 https://grouplens.org/datasets/movielens/
